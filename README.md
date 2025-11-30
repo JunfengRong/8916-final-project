@@ -115,13 +115,22 @@
    - Links to detailed setup in component repos
      - IoT Sensor Simulation: https://github.com/JunfengRong/rideau-canal-sensor-simulation
      - Dashboard: https://github.com/JunfengRong/25F_CST8916_Final_Project_Web-Dashboard
+9. **Dashboard Screenshots**
+   ![01-iot-hub-devices.png](screenshots/01-iot-hub-devices.png)
+   ![02-iot-hub-metrics.png](screenshots/02-iot-hub-metrics.png)
+   ![03-stream-analytics-query.png](screenshots/03-stream-analytics-query.png)
+   ![04-stream-analytics-running.png](screenshots/04-stream-analytics-running.png)
+   ![05-cosmos-db-data.png](screenshots/05-cosmos-db-data.png)
+   ![06-blob-storage-files.png](screenshots/06-blob-storage-files.png)
+   ![07-dashboard-local.png](screenshots/07-dashboard-local.png)
+   ![08-dashboard-azure.png](screenshots/08-dashboard-azure.png)
 
-9. **AI Tools Disclosure** (if used)
+10. **AI Tools Disclosure** (if used)
     - Tools used and how
       - Using ChatGPT to generate the sensors' code to simulate data
     - What was AI-generated vs your work
       - The AI-generated code was used as a starting point, and then modified to fit the project's needs.
-10. **References**
+11. **References**
     - Libraries used
       - Azure IoT SDK for Python
     - Other resources
